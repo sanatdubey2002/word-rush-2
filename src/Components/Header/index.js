@@ -18,7 +18,7 @@ function Header({onClick}) {
     <div className="header">
       <Link to="/">
       <h1>
-        WordDash
+        WordRush
       </h1>
       </Link>
       <div className="lefts">
