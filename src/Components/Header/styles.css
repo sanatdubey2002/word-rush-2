@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  /* padding: 1.5rem 3rem; */
+  position: sticky;
+  top: 0;
+  background-color: #121212;
+  z-index: 1000;
+  height:2rem;
+  padding-top: 6px;
+  margin-bottom: 10px;
+}
+.lefts{
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  gap:1rem;
+}
+.left{
+  cursor: pointer;
+}
+h1{
+  cursor: pointer;
+  text-decoration: none;
+}
