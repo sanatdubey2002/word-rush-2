@@ -24,3 +24,16 @@ h1{
   cursor: pointer;
   text-decoration: none;
 }
+@media (max-width: 768px) {
+  .header {
+    margin-top: 20px;
+  }
+
+  h1 {
+    font-size: 0.875rem; /* Smaller font size for smaller screens */
+  }
+  .left{
+    font-size: 0.875rem;
+  }
+  
+}
